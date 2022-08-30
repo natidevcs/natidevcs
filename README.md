@@ -1,7 +1,7 @@
  ✨ Hello word!! My name is Natália ✨ 
 
 
-- 💻 Trabalho com: HTMLS, CSS e JavaScript;
+- 💻 HTMLS, CSS e JavaScript;
 - 🌱 Estudando: Node.js, Typescript, Python, SQL,...;
 - 😄 Pronouns: ela/dela
 ##
