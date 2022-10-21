@@ -2,7 +2,7 @@
 
 
 - 💻 HTMLS, CSS e JavaScript;
-- 🌱 Estudando: Node.js, Typescript, SQL ...;
+- 🌱 Estudando: SQL, Power Bi, Python;
 - 😄 Pronouns: ela/dela
 ##
 
